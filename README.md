@@ -1,6 +1,6 @@
 Submitted by: Maneesha
 
-Wordle is an app that ... [TODO] 
+Wordle is an app that allows players guess a five lettered hidden word within six attempts, using the feedback provided after each guess to make educated guesses about the word. The game provides feedback on each guess, indicating which letters are correct and in the correct position (green), which letters are correct but in the wrong position (yellow), and which letters are not in the word at all (gray).
 
 Time spent: 7 hours spent in total
 
@@ -36,9 +36,11 @@ The following **additional** features are implemented:
 
 Challenges encountered while building the app.
 
-1.I faced difficulty in understanding the code structure of the app, including the roles of different files like ViewController, BoardController, KeyboardController, LetterCell, and WordGenerator
+1.I faced difficulty in understanding the code structure of the app, including the roles of different files like ViewController, BoardController, KeyboardController, LetterCell, and WordGenerator.
+
 2.Throughout the process, I encountered various errors such as ambiguous use of variables, incorrect method calls, and issues with data flow between different components of the app.
-3.Image size compatibilty
+
+3.Image size compatibilty.
 
 
 ## License
