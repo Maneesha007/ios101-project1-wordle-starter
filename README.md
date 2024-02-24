@@ -8,25 +8,22 @@ Time spent: 7 hours spent in total
 
 The following **required** functionality is completed:
 
- [ ] App displays a keyboard on the screen
-- [ ] When tapping on the keyboard, a letter is shown or deleted (letter selected)
-- [ ] User can play a basic version of Wordle, with different goal words each time
+ - [ ] App displays a keyboard on the screen
+ - [ ] When tapping on the keyboard, a letter is shown or deleted (letter selected)
+ - [ ] User can play a basic version of Wordle, with different goal words each time
 
 The following **optional** features are implemented:
 
-- [ ] Improve and customize the user interface by adding a launchscreen and app icon
-- [ ] Run the app on a device rather than in the simulator
-
+ - [ ] Improve and customize the user interface by adding a launchscreen and app icon
+ - [ ] Run the app on a device rather than in the simulator
+ 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+ - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
  <div>
-    <a href="https://www.loom.com/share/1bd0c4aaf354440fa02a314f1b3801d9">
-     
-    </a>
     <a href="https://www.loom.com/share/1bd0c4aaf354440fa02a314f1b3801d9">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/1bd0c4aaf354440fa02a314f1b3801d9-with-play.gif">
     </a>
