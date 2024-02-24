@@ -17,9 +17,7 @@ The following **optional** features are implemented:
  - [x] Improve and customize the user interface by adding a launchscreen and app icon
  - [x] Run the app on a device rather than in the simulator
  
-The following **additional** features are implemented:
 
- - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
