@@ -8,7 +8,7 @@ Time spent: 7 hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] App displays a keyboard on the screen
+ [ ] App displays a keyboard on the screen
 - [ ] When tapping on the keyboard, a letter is shown or deleted (letter selected)
 - [ ] User can play a basic version of Wordle, with different goal words each time
 
@@ -39,8 +39,9 @@ The following **additional** features are implemented:
 
 Challenges encountered while building the app.
 
-## 1.
-## 2.
+1.I faced difficulty in understanding the code structure of the app, including the roles of different files like ViewController, BoardController, KeyboardController, LetterCell, and WordGenerator
+2.Throughout the process, I encountered various errors such as ambiguous use of variables, incorrect method calls, and issues with data flow between different components of the app.
+3.Image size compatibilty
 
 
 ## License
